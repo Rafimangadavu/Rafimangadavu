@@ -1,8 +1,8 @@
- ![logo]()
+ ![logo](https://github.com/Rafimangadavu/Rafimangadavu/blob/main/git2.png)
 <h1 align="center">Hi 👋, I'm Mohammed Rafi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1308090/screenshots/5207532/flatsy_computerguy_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafimangadavu&label=Profile%20views&color=0e75b6&style=flat" alt="rafimangadavu" /> </p>
 
