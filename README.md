@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafimangadavu&label=Profile%20views&color=0e75b6&style=flat" alt="rafimangadavu" /> </p>
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently doing some projects****
 
 - 💬 Ask me about **Mongodb, Express, React, Nodejs**
 
