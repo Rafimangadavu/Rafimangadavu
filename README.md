@@ -1,4 +1,4 @@
- ![logo](https://github.com/Rafimangadavu/Rafimangadavu/blob/main/git2.png)
+ ![logo]()
 <h1 align="center">Hi 👋, I'm Mohammed Rafi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
