@@ -1,4 +1,4 @@
- ![logo](https://github.com/Rafimangadavu/Rafimangadavu/blob/main/GitHub%20Poster.pdf)
+ ![logo](https://github.com/Rafimangadavu/Rafimangadavu/blob/main/github%20poster.png?raw=true)
 <h1 align="center">Hi 👋, I'm Mohammed Rafi Puthiya Purayil</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
